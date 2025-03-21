@@ -1,3 +1,11 @@
 #hello
 /.venv
 __pycache__
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+
+
+hello/
